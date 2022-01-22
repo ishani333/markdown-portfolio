@@ -1,0 +1,5 @@
+- anime 
+- food 
+- sushi 
+- video games 
+- plushies 
